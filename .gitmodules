@@ -1,6 +1,6 @@
 [submodule "row-buffered-multiple/pcb/library"]
 	path = row-buffered-multiple/pcb/library
-	url = https://github.com/nebs/eurocad.git
+	url = https://github.com/westlicht/eurocad.git
 [submodule "row-multiple/pcb/library"]
 	path = row-multiple/pcb/library
-	url = https://github.com/nebs/eurocad.git
+	url = https://github.com/westlicht/eurocad.git
